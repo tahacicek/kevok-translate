@@ -1,3 +1,4 @@
+
 # Kevok Community
 
 ## About
@@ -21,4 +22,3 @@ We're currently setting up various communication channels for your convenience. 
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Refer to the license file for detailed information.
-
