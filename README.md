@@ -1,1 +1,1 @@
-#### KEWOK Software
+#### KEWOK Community
